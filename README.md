@@ -27,3 +27,4 @@ This notebook includes:
 ## 📌 Notes
 * The provided sample data is only for demonstration and reproducibility.
 * For full-scale experiments, please use the complete dataset (to be released).
+* See `MODEL_CARD.md` for model details.
