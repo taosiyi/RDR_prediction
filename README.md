@@ -4,7 +4,8 @@ This repository provides the implementation for the paper:
 
 ## 📂 Data
 The `data/` folder contains a **sample dataset** to ensure that reviewers and users can successfully run the code.
-The **full dataset will be made publicly available on Zenodo upon publication** of the paper.
+The **full dataset will be made publicly available upon publication** of the paper at: 
+https://doi.org/10.5281/zenodo.19588333
 The `model/` folder contains **models trained on the full dataset**, which can be used to directly evaluate the results.
 
 ## ⚙️ Environment Setup
